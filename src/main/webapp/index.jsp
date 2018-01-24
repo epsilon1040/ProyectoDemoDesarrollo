@@ -13,7 +13,7 @@
         <link rel="stylesheet" href="css/main.css"><link>
         <script src="js/jquery.js"></script>
         <script type="text/javascript">
-            function Convertir()
+            function Convertir(event)
             {
                 event.preventDefault();
                 $.ajax({
@@ -112,7 +112,7 @@
 				<div class="container-contact100-form-btn">
 					<div class="wrap-contact100-form-btn">
 						<div class="contact100-form-bgbtn"></div>
-                                                <button class="contact100-form-btn" name="convertir" onclick="Convertir();">
+                                                <button class="contact100-form-btn" name="convertir" onclick="Convertir(event);">
 							<span>
 								Convertir
 								<i class="fa fa-long-arrow-right m-l-7" aria-hidden="true"></i>

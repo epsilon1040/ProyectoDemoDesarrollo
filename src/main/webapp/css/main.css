@@ -159,10 +159,10 @@ iframe {
   align-items: center;
   padding: 15px;
   background: #fbf9fc;
-  background: -webkit-linear-gradient(45deg, #fbf9fc, #F82958); /*color 2 fondo #008CFF*/
-  background: -o-linear-gradient(45deg, #fbf9fc, #F82958); /*color 2 fondo #008CFF*/
-  background: -moz-linear-gradient(45deg, #fbf9fc, #F82958); /*color 2 fondo #008CFF*/
-  background: linear-gradient(45deg, #fbf9fc, #F82958); /*color 2 fondo #008CFF*/
+  background: -webkit-linear-gradient(45deg, #fbf9fc, #C929F8); /*color 2 fondo #008CFF*/
+  background: -o-linear-gradient(45deg, #fbf9fc, #C929F8); /*color 2 fondo #008CFF*/
+  background: -moz-linear-gradient(45deg, #fbf9fc, #C929F8); /*color 2 fondo #008CFF*/
+  background: linear-gradient(45deg, #fbf9fc, #C929F8); /*color 2 fondo #008CFF*/
  }
    
 .wrap-contact100 {
@@ -185,7 +185,7 @@ iframe {
   display: block;
   font-family: Poppins-Bold;
   font-size: 25px;
-  color: #333333;
+  color: #2FF829;
   line-height: 1;
   text-align: center;
   padding-bottom: 32px;

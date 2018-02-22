@@ -15,7 +15,7 @@
         <meta http-equiv="Pragma" content="no-cache">
         
         <title>Conversión de Temperatura</title>
-        <link rel="stylesheet" href="css/main.css?v=10.0"><link>
+        <link rel="stylesheet" href="css/main.css?v=11.0"><link>
         <script src="js/jquery.js"></script>
         <script type="text/javascript">
             function Convertir(event)

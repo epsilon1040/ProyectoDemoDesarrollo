@@ -159,10 +159,10 @@ iframe {
   align-items: center;
   padding: 15px;
   background: #fbf9fc;
-  background: -webkit-linear-gradient(45deg, #fbf9fc, #03D71D); /*color 2 fondo #008CFF*/ 
-  background: -o-linear-gradient(45deg, #fbf9fc, #03D71D); /*color 2 fondo #008CFF*/
-  background: -moz-linear-gradient(45deg, #fbf9fc, #03D71D); /*color 2 fondo #008CFF*/
-  background: linear-gradient(45deg, #fbf9fc, #03D71D); /*color 2 fondo #008CFF*/
+  background: -webkit-linear-gradient(45deg, #fbf9fc, #03D7C4); /*color 2 fondo #008CFF*/ 
+  background: -o-linear-gradient(45deg, #fbf9fc, #03D7C4); /*color 2 fondo #008CFF*/
+  background: -moz-linear-gradient(45deg, #fbf9fc, #03D7C4); /*color 2 fondo #008CFF*/
+  background: linear-gradient(45deg, #fbf9fc, #03D7C4); /*color 2 fondo #008CFF*/
  }
    
 .wrap-contact100 {
